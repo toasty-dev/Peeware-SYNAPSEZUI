@@ -1,6 +1,6 @@
 # Peeware
 
-![Peeware Logo](https://example.com/path-to-your-logo.png)
+![Peeware Logo](https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png)
 **The Custom UI for Synapse Z**
 
 ## Table of Contents
