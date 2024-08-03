@@ -102,10 +102,7 @@ Peeware is licensed under the [MIT License](https://github.com/your-repo/peeware
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Discord:** [Your Discord Server](https://discord.gg/yourdiscordlink)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
+- **Discord:** toasty.dev
 ---
 
 Feel free to modify the template to better suit your project's needs and branding. You can also replace placeholders like `https://example.com/path-to-your-logo.png` with actual links or images that you have for your project.
