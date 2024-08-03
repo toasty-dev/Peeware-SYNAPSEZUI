@@ -1,6 +1,9 @@
 # Peeware
 
-![Peeware Logo](https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png) **The Custom UI for Synapse Z**
+<div align="center">
+    <img src="https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png" alt="Peeware Logo" width="200">
+    <h2>The Custom UI for Synapse Z</h2>
+</div>
 
 ## Table of Contents
 
