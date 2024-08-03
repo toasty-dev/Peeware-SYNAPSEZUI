@@ -43,13 +43,11 @@ Peeware is primarily aimed at developers seeking a more enjoyable programming ex
 
 Follow these steps to install Peeware:
 
-1. **Download Peeware** from the [releases page](https://github.com/your-repo/peeware/releases).
+1. **Download Peeware** from the [releases page](https://github.com/toasty-dev/Peeware-SYNAPSEZUI/releases).
 2. **Extract the files** to your desired location.
 3. **Port** your Synapse Z loader to the same directory as the extracted files.
 4. **Open** Peeware and press inject when ingame as normal.
 5. **Use** Peeware just how you would use Synapse Z
-
-For detailed installation instructions, refer to the [Installation Guide](https://github.com/your-repo/peeware/wiki/Installation-Guide).
 
 ## Usage
 
@@ -59,8 +57,6 @@ Here's how to use Peeware with Synapse Z:
 2. **Connect to Synapse Z** by entering your credentials.
 3. **Start scripting** using the advanced code editor.
 4. **Enjoy a seamless experience** with improved stability and performance.
-
-For more details, visit the [User Guide](https://github.com/your-repo/peeware/wiki/User-Guide).
 
 ## Screenshots
 
@@ -76,14 +72,11 @@ Below are some screenshots showcasing Peeware's UI and features:
 
 ## FAQ
 
-### **What platforms does Peeware support?**
-Peeware is compatible with Windows operating systems. For more details, please refer to the [Compatibility](https://github.com/your-repo/peeware/wiki/Compatibility) page.
-
 ### **Is Peeware free to use?**
 Yes, Peeware is free to use and open source. Contributions are welcome!
 
 ### **How do I report bugs or request features?**
-Please open an issue on the [GitHub Issues](https://github.com/your-repo/peeware/issues) page to report bugs or suggest new features.
+Please open an issue on the [GitHub Issues](https://github.com/toasty-dev/Peeware-SYNAPSEZUI/issues) page to report bugs or suggest new features.
 
 ## Contributing
 
@@ -96,13 +89,10 @@ Contributions to Peeware are welcome! Here's how you can get involved:
 
 ## License
 
-Peeware is licensed under the [MIT License](https://github.com/your-repo/peeware/blob/main/LICENSE), which means it's free to use and modify.
+Peeware is licensed under the [MIT License](https://github.com/toasty-dev/Peeware-SYNAPSEZUI/blob/main/LICENSE), which means it's free to use and modify.
 
 ## Contact
 
 If you have any questions or need further assistance, feel free to reach out:
 
 - **Discord:** toasty.dev
----
-
-Feel free to modify the template to better suit your project's needs and branding. You can also replace placeholders like `https://example.com/path-to-your-logo.png` with actual links or images that you have for your project.
