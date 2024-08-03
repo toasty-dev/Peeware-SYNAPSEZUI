@@ -62,9 +62,10 @@ Here's how to use Peeware with Synapse Z:
 
 ## Screenshots
 
-Below are some screenshots showcasing Peeware's UI and features:
+
 
 <div align="center">
+    <h2>Below are some screenshots showcasing Peeware's UI and features>
     <img src="https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png" alt="Peeware Logo" width="350">
 </div>
 
