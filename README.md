@@ -34,7 +34,6 @@ Peeware is primarily aimed at developers seeking a more enjoyable programming ex
 - **Enhanced Stability:** Peeware improves the stability of Synapse Z, ensuring a seamless and reliable scripting experience.
 - **User-Friendly Interface:** Enjoy a visually appealing and customizable UI that simplifies your workflow.
 - **Advanced Code Editor:** Experience a powerful editor with LSP support, making coding more efficient and enjoyable.
-- **Unique Name:** Let's be honest, "Peeware" is a name that's hard to forget!
 
 ## Features
 
