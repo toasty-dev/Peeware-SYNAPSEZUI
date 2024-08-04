@@ -19,9 +19,11 @@
 
 ## Introduction
 
-**Peeware** is a modern and sleek external UI designed to enhance the appearance and functionality of Synapse Z. If you've ever felt that Synapse Z's default look leaves much to be desired, Peeware is here to revolutionize your experience.
+### What is Peeware?
+Peeware is a modern and sleek external UI designed to enhance the appearance and functionality of Synapse Z. If you've ever felt that Synapse Z's default look leaves much to be desired, Peeware is here to revolutionize your experience.
 
-**Why does Synapse Z look so ugly by itself?** 🤔 We've all asked that question at some point. Peeware addresses this concern by providing a more aesthetically pleasing and intuitive user interface with an advanced code editor and Language Server Protocol (LSP) support.
+### Why does Synapse Z look so ugly by itself? 🤔 
+We've all asked that question at some point. Peeware addresses this concern by providing a more aesthetically pleasing and intuitive user interface with an advanced code editor and Language Server Protocol (LSP) support.
 
 ## What is Peeware for?
 
